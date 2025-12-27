@@ -1,18 +1,52 @@
 # Project Idea Template
-This [Dendron](https://www.dendron.so/) template can be used to quickly document and evaluate project or new feature ideas.
+This template can be used to quickly document and evaluate project or new feature ideas.  It has been converted to be used with Dendron<-(inactive) and Trilium notes.  See the respective directories for the templates and instructions for each.
 
-## How to Use in your Dendron Vault
-1. Create a new template file.  This is the same as [creating a new Dendron note](https://wiki.dendron.so/notes/0e57f8d1-e501-49db-974c-01eb64c20c22/#creating-new-note).  It is recommended to store templates under the `template` root but this is not required.
-1. Copy the contents of this template into your new note.  Replace all contents of the note (including the metadata at the top).
-1. Regenerate the NoteID using Dendron Doctor.
-    1. Open the command palette.
-    1. Select `Dendron: Doctor`
-    1. Select `regenerateNoteId`
-1.  Save your template.
+---
 
-## Creating a New Note from Template
-1. Use the lookup bar to enter the path of your desired new note.
-1. Select `Create New with Template`
-1. Fill out the details for your new idea!
+## Project Summary
 
-You can also follow the [instructions on the Dendron Docs](https://wiki.dendron.so/notes/0e57f8d1-e501-49db-974c-01eb64c20c22/#creating-notes-with-template-applied).
+A couple sentences describing a high-level overview of what the project is or does.
+
+
+
+## Need/Use Case
+
+Describe what the need is.  If there was a use case that led to the idea, explain it here.  Why would this be helpful?
+
+
+
+## Related Tools and Topics
+
+Link any relevant tools or topics to the project here.
+
+-
+
+## Minimum Demonstration Milestones
+
+List the milestones that would need to be achieved at a minimum to demonstrate the value of the idea.  This would be the point to evaluate if the idea is viable enough to invest more effort in.
+
+1. 
+
+## Reach Milestones
+
+List ideas for further feature ideas.  These features aren’t necessarily required to get an idea if the project is viable/helpful but might be worth adding in the future if the project is continued.  This is just to document feature ideas, so they don’t get lost.
+
+1. 
+
+## Challenges/Blockers
+
+Are there major challenges that need to be overcome before starting the project?  Hardware costs, unknown languages/technologies, etc.
+
+- 
+
+## Estimated Project Impact
+
+**High** - Would help with daily tasks, would be useful to many people, would automate hours worth of work, would help reduce risks or error, etc.
+
+**Medium** - Would automate boring tasks, used monthly, only applicable to a few teams, etc.
+
+**Low** - Fixes minor inconveniences , personal projects not applicable to many others, not really necessary to complete day to day work, etc.
+
+**Other** - Well...it's more about the journey than the destination.  (Probably not useful but it might be fun!)
+
+
