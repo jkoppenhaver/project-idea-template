@@ -55,7 +55,7 @@ created: 1677644749787
 
 **Medium** - Would automate boring tasks, used monthly, only applicable to a few teams, etc.
 
-**Low** - Fixes minor inconvieneces, personal projects not applicable to many others, not really neccesary to complete day to day work, etc.
+**Low** - Fixes minor inconveniences , personal projects not applicable to many others, not really necessary to complete day to day work, etc.
 
 **Other** - Well...it's more about the journey than the destination.  (Probably not useful but it might be fun!)
 
